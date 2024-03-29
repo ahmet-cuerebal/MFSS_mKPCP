@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MFSS_mKPCP
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ahmet
+    family-names: Cürebal
+    email: ahmet.cuerebal@uni-hamburg.de
+    affiliation: University of Hamburg
+    orcid: 'https://orcid.org/0000-0002-1031-659X'
+identifiers:
+  - type: url
+    value: 'https://github.com/ahmet-cuerebal/MFSS_mKPCP'
