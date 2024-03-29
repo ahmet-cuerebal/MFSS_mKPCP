@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Ahmet"
- given-names: "Cürebal"
- orcid: "https://orcid.org/0000-0002-1031-659X"
+message: "If you use this software, please cite it using the metadata from this file."
 title: "Matheuristic Fixed set search for the min-Knapsack problem with compactness constraints and penalty values"
+authors:
+  - family-names: "Ahmet"
+    given-names: "Cürebal"
+    orcid: "https://orcid.org/0000-0002-1031-659X9"
 version: 0.1
 date-released: 2024-03-29
 url: "https://github.com/ahmet-cuerebal/MFSS_mKPCP"
